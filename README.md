@@ -6,7 +6,7 @@ Welcome to the landing page for Sunnyside, a vibrant and innovative startup! Thi
 
 Here are some screenshots of our landing page:
 
--![Screenshot 1]([link_to_screenshot_1](https://i.imgur.com/KMk5Xlm.jpg))
+-![Screenshot 1]([(https://i.imgur.com/KMk5Xlm.jpg)](https://i.imgur.com/KMk5Xlm.jpg))
 
 ## Features
 
