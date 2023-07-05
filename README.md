@@ -2,6 +2,12 @@
 
 Welcome to the landing page for Sunnyside, a vibrant and innovative startup! This landing page showcases the exciting features and benefits of our product. You can access the live version of the page [here](https://sunnyside-landing-page-00.netlify.app/).
 
+## Screenshots
+
+Here are some screenshots of our landing page:
+
+-![Screenshot 1]([link_to_screenshot_1](https://imgur.com/a/cBKfT7X))
+
 ## Features
 
 - **Beautiful and Sleek Design:** Our landing page has been meticulously designed to create an engaging and visually appealing experience for our users.
